@@ -4,9 +4,7 @@ Este arquivo apresenta os pontos-chave do controle de fluxo, calcula a complexid
 
 ---
 
-### **Diagrama** 
-
-https://lucid.app/lucidchart/ae4bdcce-c7cb-4ffb-bfbe-d856bf28cd38/edit?invitationId=inv_359f21bc-c557-4e1e-9737-0e8fb9d418f6&page=0_0#
+![Diagrama](https://github.com/Leonardo-405/AF-UX-UI-Ohata/blob/ETAPA-3/Diagrama.png)
 
 ---
 
